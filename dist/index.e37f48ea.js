@@ -586,7 +586,6 @@ var _recipeViewsJs = require("./views/recipeViews.js");
 var _recipeViewsJsDefault = parcelHelpers.interopDefault(_recipeViewsJs);
 var _runtime = require("regenerator-runtime/runtime");
 const recipeContainer = document.querySelector(".recipe");
-// https://forkify-api.herokuapp.com/v2
 ///////////////////////////////////////
 const controlRecipes = async function() {
     try {
@@ -2963,6 +2962,6 @@ Fraction.primeFactors = function(n) {
 };
 module.exports.Fraction = Fraction;
 
-},{}]},["f0HGD","aenu9"], "aenu9", "parcelRequire384f")
+},{}]},["f0HGD","aenu9"], "aenu9", "parcelRequire4a85")
 
 //# sourceMappingURL=index.e37f48ea.js.map
